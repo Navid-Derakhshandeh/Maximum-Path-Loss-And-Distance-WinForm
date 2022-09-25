@@ -1,0 +1,13 @@
+D:\Test4\Maximum Path Losss\Maximum Path Losss\bin\Debug\Maximum Path Loss And Distance WinForm.exe.config
+D:\Test4\Maximum Path Losss\Maximum Path Losss\bin\Debug\Maximum Path Loss And Distance WinForm.exe.manifest
+D:\Test4\Maximum Path Losss\Maximum Path Losss\bin\Debug\Maximum Path Loss And Distance WinForm.application
+D:\Test4\Maximum Path Losss\Maximum Path Losss\bin\Debug\Maximum Path Loss And Distance WinForm.exe
+D:\Test4\Maximum Path Losss\Maximum Path Losss\bin\Debug\Maximum Path Loss And Distance WinForm.pdb
+D:\Test4\Maximum Path Losss\Maximum Path Losss\obj\Debug\Maximum_Path_Losss.Form1.resources
+D:\Test4\Maximum Path Losss\Maximum Path Losss\obj\Debug\Maximum_Path_Losss.Properties.Resources.resources
+D:\Test4\Maximum Path Losss\Maximum Path Losss\obj\Debug\Maximum Path Loss And Distance WinForm.csproj.GenerateResource.cache
+D:\Test4\Maximum Path Losss\Maximum Path Losss\obj\Debug\Maximum Path Loss And Distance WinForm.csproj.CoreCompileInputs.cache
+D:\Test4\Maximum Path Losss\Maximum Path Losss\obj\Debug\Maximum Path Loss And Distance WinForm.exe.manifest
+D:\Test4\Maximum Path Losss\Maximum Path Losss\obj\Debug\Maximum Path Loss And Distance WinForm.application
+D:\Test4\Maximum Path Losss\Maximum Path Losss\obj\Debug\Maximum Path Loss And Distance WinForm.exe
+D:\Test4\Maximum Path Losss\Maximum Path Losss\obj\Debug\Maximum Path Loss And Distance WinForm.pdb

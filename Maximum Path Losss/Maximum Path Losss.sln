@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Path Loss And Distance WinForm", "Maximum Path Losss\Maximum Path Loss And Distance WinForm.csproj", "{84B318A4-5823-4B16-A85A-70D33F4CF1B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B318A4-5823-4B16-A85A-70D33F4CF1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B318A4-5823-4B16-A85A-70D33F4CF1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B318A4-5823-4B16-A85A-70D33F4CF1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B318A4-5823-4B16-A85A-70D33F4CF1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C35534DA-A87F-4D4E-9902-996D4BE305C6}
+	EndGlobalSection
+EndGlobal
